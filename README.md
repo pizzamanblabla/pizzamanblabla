@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 📫 Connect
+- 💼 LinkedIn: [linkedin.com/in/evgeny-berezkin-895886104](https://www.linkedin.com/in/evgeny-berezkin-895886104/)
+- 📸 Instagram: [@evgenythebirch](https://www.instagram.com/evgenythebirch/)
+- ✉️ Email: [everythingforpizza@gmail.com](mailto:everythingforpizza@gmail.com)
+- 🐙 GitHub: you’re here 😉
+
+---
+
 <!--
 **pizzamanblabla/pizzamanblabla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
